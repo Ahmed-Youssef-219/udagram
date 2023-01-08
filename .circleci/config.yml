@@ -35,7 +35,6 @@ jobs:
           name: Front-End Lint
           command: |
             npm run frontend:lint
-      - run: npm run zipFiles
       # TODO: Build the frontend app $$$$$$
       - run:
           name: Front-End Build
