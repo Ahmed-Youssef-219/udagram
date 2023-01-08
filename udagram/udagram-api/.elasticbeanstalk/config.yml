@@ -1,0 +1,11 @@
+branch-defaults:
+  master:
+    environment: Udagarmapi3-env
+global:
+  application_name: udagarm-api-3
+  default_ec2_keyname: e-g4esb8r3d5
+  default_platform: Node.js 16 running on 64bit Amazon Linux 2/5.6.3
+  default_region: us-east-1
+  sc: git
+deploy:
+  artifact: '"../www/Archive.zip"'
