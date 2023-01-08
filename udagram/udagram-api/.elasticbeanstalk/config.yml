@@ -8,4 +8,4 @@ global:
   default_region: us-east-1
   sc: git
 deploy:
-  artifact: '../www/Archive.zip'
+  artifact: www/Archive.zip
