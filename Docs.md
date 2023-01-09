@@ -1,4 +1,12 @@
 ### Deployment Steps
+
+## aws infrastucture diagram
+![Image](udagram/images/aws%20infrastructure%20diagram.jpeg)
+
+## pipeline diagram
+![Image](udagram/images/pipeline.jpeg)
+
+
 ## RDS
 ![Image](https://github.com/Ahmed-Youssef-219/udagram/blob/main/udagram/images/RDS/1-%20dashboard.png?raw=true)
 ![Image](https://github.com/Ahmed-Youssef-219/udagram/blob/main/udagram/images/RDS/2-%20create_database_EngineOptions.png?raw=true)
@@ -29,7 +37,13 @@
 
 
 ## Iam key
-![Image](https://github.com/Ahmed-Youssef-219/udagram/blob/main/udagram/images/S3/1_S3_createBucket.png?raw=true)
+![Image](https://github.com/Ahmed-Youssef-219/udagram/blob/main/udagram/images/Iam/create%20iam%20user.png?raw=true)
+![Image](https://github.com/Ahmed-Youssef-219/udagram/blob/main/udagram/images/Iam/user%20details.png?raw=true)
+![Image](https://github.com/Ahmed-Youssef-219/udagram/blob/main/udagram/images/Iam/set%20permissions.png?raw=true)
+
+
+## More Details
+Read [Docs](Docs.md) for more details 
 
 
 
