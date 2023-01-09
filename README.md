@@ -1,3 +1,39 @@
+# How to set up the project
+### First
+1. `git clone https://github.com/Ahmed-Youssef-219/udagram.git`
+
+### Second 
+2. `cd udagram/udagram-api`
+3. `npm install`
+
+### THird 
+1. `cd udagram/udagram-api`
+2. `npm install --legacy-peer-deps`
+
+
+# api scripts
+1. to run the server `npm run prod`
+2. to run the server `npm run dev`
+3. to deploy the api to elasticbeanstalk `npm run deploy`
+
+# frontend scripts
+1. to run the server `npm run prod`
+2. to run the server `npm run dev`
+3. to deploy the api to elasticbeanstalk `npm run deploy`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Hosting a Full-Stack Application
 
 ### **You can use you own project completed in previous courses or use the provided Udagram app for completing this final project.**
