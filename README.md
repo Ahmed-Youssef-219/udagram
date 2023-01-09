@@ -22,3 +22,6 @@
 3. to deploy the api to elasticbeanstalk `npm run deploy`
 3. to to run the test `npm run test`
 3. to to run the e2e `npm run e2e`
+
+## More Details
+Read [Docs](Docs.md) for more details 

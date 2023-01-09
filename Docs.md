@@ -36,14 +36,20 @@
 ![Image](https://github.com/Ahmed-Youssef-219/udagram/blob/main/udagram/images/S3/7_S3_uploadedFiles2.png?raw=true)
 
 
+
 ## Iam key
 ![Image](https://github.com/Ahmed-Youssef-219/udagram/blob/main/udagram/images/Iam/create%20iam%20user.png?raw=true)
 ![Image](https://github.com/Ahmed-Youssef-219/udagram/blob/main/udagram/images/Iam/user%20details.png?raw=true)
 ![Image](https://github.com/Ahmed-Youssef-219/udagram/blob/main/udagram/images/Iam/set%20permissions.png?raw=true)
 
 
-## More Details
-Read [Docs](Docs.md) for more details 
+
+## Pipeline Process
+![Image](udagram/circleci/Environment%20variables%20in%20circleci.png)
+![Image](udagram/circleci/pipeline%20process%20in%20circle%20ci.png)
+![Image](udagram/circleci/build%20process.png)
+![Image](udagram/circleci/deploy%20process.png)
+![Image](udagram/circleci/sucess%20process.png)
 
 
 
