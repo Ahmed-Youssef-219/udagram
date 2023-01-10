@@ -11,7 +11,6 @@ jobs:
       # the base image can run most needed actions with orbs
       - image: "cimg/node:16.0.0"
     steps:
-      - run: echo "Say hello to YAML!"
       # install node and checkout code
       - node/install:
           node-version: '16.0.0'         
@@ -60,12 +59,9 @@ jobs:
           name: Deploy App
           # TODO: Install, build, deploy in both apps
           command: |
-            npm run frontend:install
-            npm run frontend:build
-            npm run frontend:deploy
-            npm run api:install
-            npm run api:build
             npm run api:deploy
+            npm run frontend:deploy
+            
             
           
 workflows:
