@@ -1,5 +1,8 @@
 ### Deployment Steps
 
+## Link to frontend [go to frontend](http://udagram-frontend-219.s3-website-us-east-1.amazonaws.com/home)
+`http://udagram-frontend-219.s3-website-us-east-1.amazonaws.com/home`
+
 ## aws infrastucture diagram
 ![Image](udagram/images/aws%20infrastructure%20diagram.jpeg)
 
