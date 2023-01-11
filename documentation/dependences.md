@@ -11,5 +11,4 @@
 
 - A S3 bucket for hosting uploaded pictures.
 
-
 ```
